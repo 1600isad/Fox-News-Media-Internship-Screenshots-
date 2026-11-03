@@ -1,6 +1,7 @@
 
 <img width="1917" height="1117" alt="example2" src="https://github.com/user-attachments/assets/114652a2-6f85-4fa2-b30d-318f0cec288f" />
 <img width="1912" height="1143" alt="example1" src="https://github.com/user-attachments/assets/21742ee1-4764-4e1e-9cfa-73a9540e1efc" />
+<img width="1917" height="1106" alt="example69" src="https://github.com/user-attachments/assets/0f182a07-b861-43e4-95c1-3f1070257ad0" />
 
 
 <img width="1912" height="1160" alt="Screenshot 2026-10-19 at 4 39 33 PM" src="https://github.com/user-attachments/assets/827884a5-575a-45df-83fb-4556d0ae1b45" />
